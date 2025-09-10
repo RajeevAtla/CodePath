@@ -5,3 +5,9 @@ Files for CodePath Fall 2025
 - Will use [Zed](https://zed.dev/) and Astral's Python stack ([Ruff](https://docs.astral.sh/ruff/), [uv](https://docs.astral.sh/uv/), [ty](https://docs.astral.sh/ty/)) to write Python
 - Will be as organized and documentative as possible
 - Will use GitHub Actions for testing, linting, and formatting
+
+## Todo
+
+- [ ] Setup unit tests (uv + pytest + GitHub Actions)
+- [ ] Setup linting (uv + ruff)
+- [ ] Setup type checking (uv + ty)
